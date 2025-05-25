@@ -1,0 +1,38 @@
+.main{
+    margin-top:0px;
+    margin-left: 450px;
+}
+
+.control,.symbols,.div789,.div456,.div123,.result{
+    margin: 10px auto;
+}
+
+ .controlButtons,.symbolsButtons,.buttons123,.buttons456,.buttons789,.resultButtons{
+  margin-left: 20px;
+  width: 75px;
+} 
+
+.userInput{
+margin-bottom: 0px;
+width:450px;
+margin-left: 450px;
+margin-top: 25px;
+
+}
+
+.design{
+font-family: 'Oswald', sans-serif;
+font-weight: 800;
+font-size: large;
+letter-spacing: 2px;
+color: teal;
+}
+
+html{
+    background-color: #cfbaf0;
+}
+
+
+
+
+
